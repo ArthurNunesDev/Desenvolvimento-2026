@@ -237,22 +237,6 @@ A implementação, entretanto, foi desenvolvida em HTML e CSS de acordo com a es
 
 ---
 
-## 📱 Responsividade
-
-O projeto foi desenvolvido considerando diferentes tamanhos de tela.
-
-A estrutura utiliza recursos do CSS para permitir que os elementos se adaptem a diferentes resoluções.
-
-Entre os conceitos utilizados estão:
-
-* Flexbox;
-* Containers;
-* Media Queries;
-* Layouts adaptáveis;
-* Organização responsiva das seções.
-
----
-
 ## 🔮 Melhorias futuras
 
 O projeto continuará sendo atualizado conforme novas experiências e conhecimentos forem adquiridos.
